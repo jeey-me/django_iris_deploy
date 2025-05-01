@@ -1,3 +1,6 @@
+iris/__pycache__
+django_iris_deploy/__pycache__
+ris/migrations
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
